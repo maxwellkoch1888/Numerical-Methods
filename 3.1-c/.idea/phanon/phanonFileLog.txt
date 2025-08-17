@@ -1,0 +1,5 @@
+/main.py
+/.idea/.gitignore
+-c/main.py
+ain.py
+/3-c.py

@@ -1,0 +1,484 @@
+"r","3","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/main.py""",,"PythonRunner",,"300549","0"
+"o","3",,"  File ""C:\Numerical Methods\Hw_1.3\main.py"", line 4
+",,"stderr","300596","0"
+"o","3",,"    list1 = random[random.randint(1,100) for n in range(100)]:
+",,"stderr","300596","0"
+"o","3",,"                                         ^^^
+",,"stderr","300596","0"
+"o","3",,"SyntaxError: invalid syntax
+",,"stderr","300596","0"
+"o","3",,"
+Process finished with exit code 1
+",,"system","300596","0"
+"r","4","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/main.py""",,"PythonRunner",,"531914","0"
+"o","4",,"[1, 2, 3, 9]
+",,"stdout","532052","0"
+"o","4",,"
+Process finished with exit code 0
+",,"system","532052","0"
+"r","5","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/main.py""",,"PythonRunner",,"744886","0"
+"o","5",,"[14, 18, 34, 44, 45, 67, 74, 81, 98, 99]
+",,"stdout","744986","0"
+"o","5",,"
+Process finished with exit code 0
+",,"system","744986","0"
+"r","5","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"401681","1"
+"o","5",,"Traceback (most recent call last):
+",,"stderr","401718","1"
+"o","5",,"  File ""C:\Numerical Methods\Hw_1.3\hw_1.3.py"", line 26, in <module>
+",,"stderr","401718","1"
+"o","5",,"    median()
+",,"stderr","401718","1"
+"o","5",,"  File ""C:\Numerical Methods\Hw_1.3\hw_1.3.py"", line 23, in median
+",,"stderr","401718","1"
+"o","5",,"    Median = x1/x2
+",,"stderr","401718","1"
+"o","5",,"TypeError: unsupported operand type(s) for /: 'list' and 'list'
+",,"stderr","401718","1"
+"o","5",,"
+Process finished with exit code 1
+",,"system","401725","1"
+"r","6","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"641850","1"
+"o","6",,"Traceback (most recent call last):
+",,"stderr","642019","1"
+"o","6",,"  File ""C:\Numerical Methods\Hw_1.3\hw_1.3.py"", line 26, in <module>
+",,"stderr","642019","1"
+"o","6",,"    median()
+",,"stderr","642019","1"
+"o","6",,"  File ""C:\Numerical Methods\Hw_1.3\hw_1.3.py"", line 23, in median
+",,"stderr","642019","1"
+"o","6",,"    Median = x1/x2
+",,"stderr","642019","1"
+"o","6",,"TypeError: unsupported operand type(s) for /: 'list' and 'list'
+",,"stderr","642019","1"
+"o","6",,"
+Process finished with exit code 1
+",,"system","642030","1"
+"r","7","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"676158","1"
+"o","7",,"[7, 10, 11, 12]
+",,"stdout","676210","1"
+"o","7",,"
+Process finished with exit code 0
+",,"system","676218","1"
+"r","8","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"724107","1"
+"o","8",,"0.88
+",,"stdout","724221","1"
+"o","8",,"
+Process finished with exit code 0
+",,"system","724225","1"
+"r","9","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"740407","1"
+"o","9",,"0.9863013698630136
+",,"stdout","740485","1"
+"o","9",,"
+Process finished with exit code 0
+",,"system","740487","1"
+"r","10","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"749277","1"
+"o","10",,"[5, 8, 10, 24, 26, 63, 73, 77, 81, 95]
+",,"stdout","749358","1"
+"o","10",,"0.863013698630137
+",,"stdout","749358","1"
+"o","10",,"
+Process finished with exit code 0
+",,"system","749359","1"
+"r","11","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"773644","1"
+"o","11",,"[3, 28, 29, 39, 43, 58, 72, 72, 87, 88]
+",,"stdout","773698","1"
+"o","11",,"65.0
+",,"stdout","773698","1"
+"o","11",,"
+Process finished with exit code 0
+",,"system","773698","1"
+"r","12","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"801995","1"
+"o","12",,"[10, 17, 31, 42, 51, 59, 61, 70, 91, 100]
+",,"stdout","802060","1"
+"o","12",,"55.0
+",,"stdout","802060","1"
+"o","12",,"
+Process finished with exit code 0
+",,"system","802060","1"
+"r","13","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"834092","1"
+"o","13",,"[3, 4, 13, 15, 24, 26, 28, 61, 85, 94]
+",,"stdout","834177","1"
+"o","13",,"35.3
+",,"stdout","834177","1"
+"o","13",,"25.0
+",,"stdout","834177","1"
+"o","13",,"
+Process finished with exit code 0
+",,"system","834177","1"
+"r","14","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"914698","1"
+"o","14",,"The numbers are [18, 33, 40, 41, 55, 63, 68, 74, 75, 77] .
+",,"stdout","914741","1"
+"o","14",,"The mean is 54.4 .
+",,"stdout","914741","1"
+"o","14",,"The median is  59.0 .
+",,"stdout","914741","1"
+"o","14",,"
+Process finished with exit code 0
+",,"system","914741","1"
+"r","15","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"957050","1"
+"o","15",,"Numbers = [4, 8, 16, 16, 25, 28, 32, 52, 67, 76]
+",,"stdout","957118","1"
+"o","15",,"Mean = 32.4
+",,"stdout","957118","1"
+"o","15",,"Median = 26.5
+",,"stdout","957118","1"
+"o","15",,"
+Process finished with exit code 0
+",,"system","957118","1"
+"r","16","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1538713","1"
+"o","16",,"Numbers = [1, 2, 3, 4, 5, 5, 6, 7, 8, 9]
+",,"stdout","1538829","1"
+"o","16",,"Mean = 5.0
+",,"stdout","1538829","1"
+"o","16",,"Median = 5.0
+",,"stdout","1538829","1"
+"o","16",,"Mode =, [5]
+",,"stdout","1538829","1"
+"o","16",,"
+Process finished with exit code 0
+",,"system","1538838","1"
+"r","17","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1548612","1"
+"o","17",,"Numbers = [1, 2, 3, 4, 5, 5, 6, 7, 8, 9]
+",,"stdout","1548704","1"
+"o","17",,"Mean = 5.0
+",,"stdout","1548704","1"
+"o","17",,"Median = 5.0
+",,"stdout","1548704","1"
+"o","17",,"Mode(s) = [5]
+",,"stdout","1548704","1"
+"o","17",,"
+Process finished with exit code 0
+",,"system","1548705","1"
+"r","18","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1570985","1"
+"o","18",,"Numbers = [1, 3, 3, 4, 5, 5, 6, 7, 8, 9]
+",,"stdout","1571147","1"
+"o","18",,"Mean = 5.1
+",,"stdout","1571147","1"
+"o","18",,"Median = 5.0
+",,"stdout","1571147","1"
+"o","18",,"Mode(s) = [3, 5]
+",,"stdout","1571147","1"
+"o","18",,"
+Process finished with exit code 0
+",,"system","1571148","1"
+"r","19","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1591613","1"
+"o","19",,"Numbers = [14, 33, 49, 52, 60, 70, 76, 78, 85, 89]
+",,"stdout","1591681","1"
+"o","19",,"Mean = 60.6
+",,"stdout","1591681","1"
+"o","19",,"Median = 65.0
+",,"stdout","1591681","1"
+"o","19",,"Mode(s) = [14, 33, 49, 52, 60, 70, 76, 78, 85, 89]
+",,"stdout","1591681","1"
+"o","19",,"
+Process finished with exit code 0
+",,"system","1591685","1"
+"r","20","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1735807","1"
+"o","20",,"Numbers = [3, 11, 31, 37, 55, 57, 58, 61, 67, 89]
+",,"stdout","1735890","1"
+"o","20",,"Mean = 46.9
+",,"stdout","1735890","1"
+"o","20",,"Median = 56.0
+",,"stdout","1735890","1"
+"o","20",,"There is no mode.
+",,"stdout","1735890","1"
+"o","20",,"
+Process finished with exit code 0
+",,"system","1735890","1"
+"r","21","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1758090","1"
+"o","21",,"Numbers = [1, 1, 1, 1, 2, 2, 3, 4, 5, 6, 7, 8]
+",,"stdout","1758152","1"
+"o","21",,"Mean = 4.1
+",,"stdout","1758152","1"
+"o","21",,"Median = 2.0
+",,"stdout","1758152","1"
+"o","21",,"Mode(s) = [1]
+",,"stdout","1758152","1"
+"o","21",,"
+Process finished with exit code 0
+",,"system","1758161","1"
+"r","22","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1783211","1"
+"o","22",,"Numbers = [1, 1, 1, 1, 2, 2, 3, 4, 5, 6]
+",,"stdout","1783278","1"
+"o","22",,"Mean = 2.6
+",,"stdout","1783278","1"
+"o","22",,"Median = 2.0
+",,"stdout","1783278","1"
+"o","22",,"There is no mode.
+",,"stdout","1783278","1"
+"o","22",,"
+Process finished with exit code 0
+",,"system","1783288","1"
+"r","23","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1795153","1"
+"o","23",,"Numbers = [1, 1, 1, 1, 2, 2, 3, 4, 5, 6]
+",,"stdout","1795232","1"
+"o","23",,"Mean = 2.6
+",,"stdout","1795232","1"
+"o","23",,"Median = 2.0
+",,"stdout","1795232","1"
+"o","23",,"Mode(s) = [1]
+",,"stdout","1795232","1"
+"o","23",,"
+Process finished with exit code 0
+",,"system","1795232","1"
+"r","24","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1819498","1"
+"o","24",,"Numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+",,"stdout","1819567","1"
+"o","24",,"Mean = 5.5
+",,"stdout","1819567","1"
+"o","24",,"Median = 5.5
+",,"stdout","1819567","1"
+"o","24",,"There is no mode.
+",,"stdout","1819567","1"
+"o","24",,"
+Process finished with exit code 0
+",,"system","1819569","1"
+"r","25","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"1830894","1"
+"o","25",,"Numbers = [10, 12, 13, 44, 53, 53, 55, 73, 87, 87]
+",,"stdout","1830940","1"
+"o","25",,"Mean = 48.7
+",,"stdout","1830940","1"
+"o","25",,"Median = 53.0
+",,"stdout","1830940","1"
+"o","25",,"Mode(s) = [53, 87]
+",,"stdout","1830940","1"
+"o","25",,"
+Process finished with exit code 0
+",,"system","1830948","1"
+"r","135","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82091220","1"
+"o","135",,"Numbers = [6, 10, 44, 48, 55, 71, 80, 81, 87, 100]
+",,"stdout","82091282","1"
+"o","135",,"Mean = 58.2
+",,"stdout","82091282","1"
+"o","135",,"Median = 63.0
+",,"stdout","82091282","1"
+"o","135",,"There is no mode.
+",,"stdout","82091282","1"
+"o","135",,"
+Process finished with exit code 0
+",,"system","82091289","1"
+"r","136","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82451192","1"
+"o","136",,"Numbers = [2, 9, 23, 27, 33, 40, 49, 65, 79, 94]
+",,"stdout","82451245","1"
+"o","136",,"Mean = 42.1
+",,"stdout","82451245","1"
+"o","136",,"Median = 36.5
+",,"stdout","82451245","1"
+"o","136",,"There is no mode.
+",,"stdout","82451245","1"
+"o","136",,"
+Process finished with exit code 0
+",,"system","82451245","1"
+"r","137","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82455955","1"
+"o","137",,"Numbers = [3, 21, 29, 32, 36, 45, 46, 56, 58, 100]
+",,"stdout","82456008","1"
+"o","137",,"Mean = 42.6
+",,"stdout","82456008","1"
+"o","137",,"Median = 40.5
+",,"stdout","82456008","1"
+"o","137",,"There is no mode.
+",,"stdout","82456008","1"
+"o","137",,"
+Process finished with exit code 0
+",,"system","82456008","1"
+"r","138","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82456803","1"
+"o","138",,"Numbers = [17, 29, 30, 36, 37, 60, 67, 68, 90, 99]
+",,"stdout","82456857","1"
+"o","138",,"Mean = 53.3
+",,"stdout","82456857","1"
+"o","138",,"Median = 48.5
+",,"stdout","82456857","1"
+"o","138",,"There is no mode.
+",,"stdout","82456857","1"
+"o","138",,"
+Process finished with exit code 0
+",,"system","82456857","1"
+"r","139","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82457590","1"
+"o","139",,"Numbers = [3, 7, 7, 29, 34, 35, 42, 58, 81, 83]
+",,"stdout","82457628","1"
+"o","139",,"Mean = 37.9
+",,"stdout","82457628","1"
+"o","139",,"Median = 34.5
+",,"stdout","82457628","1"
+"o","139",,"Mode(s) = [7]
+",,"stdout","82457628","1"
+"o","139",,"
+Process finished with exit code 0
+",,"system","82457628","1"
+"r","140","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82458376","1"
+"o","140",,"Numbers = [34, 42, 51, 59, 61, 76, 78, 83, 88, 98]
+",,"stdout","82458430","1"
+"o","140",,"Mean = 67.0
+",,"stdout","82458430","1"
+"o","140",,"Median = 68.5
+",,"stdout","82458430","1"
+"o","140",,"There is no mode.
+",,"stdout","82458430","1"
+"o","140",,"
+Process finished with exit code 0
+",,"system","82458430","1"
+"r","141","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82459479","1"
+"o","141",,"Numbers = [8, 14, 19, 23, 68, 73, 74, 80, 85, 100]
+",,"stdout","82459517","1"
+"o","141",,"Mean = 54.4
+",,"stdout","82459517","1"
+"o","141",,"Median = 70.5
+",,"stdout","82459517","1"
+"o","141",,"There is no mode.
+",,"stdout","82459517","1"
+"o","141",,"
+Process finished with exit code 0
+",,"system","82459517","1"
+"r","142","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82460366","1"
+"o","142",,"Numbers = [3, 15, 19, 22, 38, 39, 54, 58, 60, 79]
+",,"stdout","82460413","1"
+"o","142",,"Mean = 38.7
+",,"stdout","82460413","1"
+"o","142",,"Median = 38.5
+",,"stdout","82460413","1"
+"o","142",,"There is no mode.
+",,"stdout","82460413","1"
+"o","142",,"
+Process finished with exit code 0
+",,"system","82460419","1"
+"r","143","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"82461168","1"
+"o","143",,"Numbers = [6, 6, 25, 27, 41, 43, 80, 88, 94, 95]
+",,"stdout","82461215","1"
+"o","143",,"Mean = 50.5
+",,"stdout","82461215","1"
+"o","143",,"Median = 42.0
+",,"stdout","82461215","1"
+"o","143",,"Mode(s) = [6]
+",,"stdout","82461215","1"
+"o","143",,"
+Process finished with exit code 0
+",,"system","82461215","1"
+"r","5","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"138927","4"
+"o","5",,"Numbers = [5, 7, 14, 14, 24, 29, 48, 67, 68, 82]
+",,"stdout","139066","4"
+"o","5",,"Mean = 35.8
+",,"stdout","139066","4"
+"o","5",,"Median = 26.5
+",,"stdout","139066","4"
+"o","5",,"Mode(s) = [14]
+",,"stdout","139066","4"
+"o","5",,"
+Process finished with exit code 0
+",,"system","139066","4"
+"r","6","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"152636","4"
+"o","6",,"Numbers = [4, 18, 19, 34, 54, 54, 58, 67, 71, 79]
+",,"stdout","152824","4"
+"o","6",,"Mean = 45.8
+",,"stdout","152824","4"
+"o","6",,"Median = 54.0
+",,"stdout","152824","4"
+"o","6",,"Mode(s) = [54]
+",,"stdout","152824","4"
+"o","6",,"
+Process finished with exit code 0
+",,"system","152824","4"
+"r","5","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"28518083","6"
+"o","5",,"
+Process finished with exit code 0
+",,"system","28518310","6"
+"r","6","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"28536806","6"
+"o","6",,"<built-in method count of list object at 0x000001C0C6CCB8C0>
+",,"stdout","28536880","6"
+"o","6",,"
+Process finished with exit code 0
+",,"system","28536886","6"
+"r","7","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"28656707","6"
+"o","7",,"[37, 90, 5, 24, 51, 83, 81, 27, 78, 55]
+",,"stdout","28656821","6"
+"o","7",,"
+Process finished with exit code 0
+",,"system","28656823","6"
+"r","8","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"28790854","6"
+"o","8",,"<built-in function max>
+",,"stdout","28790937","6"
+"o","8",,"
+Process finished with exit code 0
+",,"system","28790941","6"
+"r","9","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30474315","6"
+"o","9",,"Traceback (most recent call last):
+",,"stderr","30474458","6"
+"o","9",,"  File ""C:\Numerical Methods\Hw_1.3\hw_1.3.py"", line 40, in <module>
+",,"stderr","30474458","6"
+"o","9",,"    mode.append(max(list, key = list1.count))
+",,"stderr","30474488","6"
+"o","9",,"TypeError: 'type' object is not iterable
+",,"stderr","30474488","6"
+"o","9",,"
+Process finished with exit code 1
+",,"system","30474489","6"
+"r","10","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30482525","6"
+"o","10",,"[54, 54, 54, 54, 54]
+",,"stdout","30482618","6"
+"o","10",,"
+Process finished with exit code 0
+",,"system","30482620","6"
+"r","11","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30532952","6"
+"o","11",,"[22]
+",,"stdout","30533064","6"
+"o","11",,"
+Process finished with exit code 0
+",,"system","30533069","6"
+"r","12","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30549183","6"
+"o","12",,"Traceback (most recent call last):
+",,"stderr","30550617","6"
+"o","12",,"  File ""C:\Numerical Methods\Hw_1.3\hw_1.3.py"", line 44, in <module>
+",,"stderr","30550617","6"
+"o","12",,"    print[list1]
+",,"stderr","30550617","6"
+"o","12",,"TypeError: 'builtin_function_or_method' object is not subscriptable
+",,"stderr","30550617","6"
+"o","12",,"
+Process finished with exit code 1
+",,"system","30550631","6"
+"r","13","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30559199","6"
+"o","13",,"[35, 45, 41, 9, 71, 61, 69, 58, 58, 13]
+",,"stdout","30559279","6"
+"o","13",,"[58]
+",,"stdout","30559279","6"
+"o","13",,"
+Process finished with exit code 0
+",,"system","30559279","6"
+"r","14","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30619120","6"
+"o","14",,"[7, 84, 58, 31, 99, 44, 96, 59, 87, 30]
+",,"stdout","30619155","6"
+"o","14",,"[7]
+",,"stdout","30619155","6"
+"o","14",,"
+Process finished with exit code 0
+",,"system","30619159","6"
+"r","15","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30711439","6"
+"o","15",,"[52, 90, 98, 52, 46, 28, 65, 61, 51, 45]
+",,"stdout","30711498","6"
+"o","15",,"[52, 52, 52, 52, 52]
+",,"stdout","30711498","6"
+"o","15",,"[52]
+",,"stdout","30711498","6"
+"o","15",,"
+Process finished with exit code 0
+",,"system","30711502","6"
+"r","16","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30754470","6"
+"o","16",,"[1, 2, 3, 4, 5, 5]
+",,"stdout","30754710","6"
+"o","16",,"[5, 5, 5, 5, 5]
+",,"stdout","30754710","6"
+"o","16",,"[5]
+",,"stdout","30754710","6"
+"o","16",,"
+Process finished with exit code 0
+",,"system","30754760","6"
+"r","17","""C:\Numerical Methods\Hw_1.2\venv_num_meth\Scripts\python.exe"" ""C:/Numerical Methods/Hw_1.3/hw_1.3.py""",,"PythonRunner",,"30773925","6"
+"o","17",,"[1, 2, 4, 4, 5, 5]
+",,"stdout","30773972","6"
+"o","17",,"[4, 4, 4, 4, 4]
+",,"stdout","30773972","6"
+"o","17",,"[4]
+",,"stdout","30773972","6"
+"o","17",,"
+Process finished with exit code 0
+",,"system","30773972","6"
